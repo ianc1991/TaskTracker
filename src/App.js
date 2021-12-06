@@ -99,8 +99,6 @@ const App = () => {
             }
           </>
         )} />
-        </Routes>
-        <Routes>
           <Route path='/about' element={<About />} />
         </Routes>
         <Footer />
